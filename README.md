@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucsw4ktf5h3b4d-rjnzlzpgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsw4ktf5h3b4d-rjnzlzpgg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSw4KtF5h3B4d-RjnzLZPgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsw4ktf5h3b4d-rjnzlzpgg" height="30" width="40" /></a>
 <a href="https://discord.gg/7Rw8DuPDrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7Rw8DuPDrn" height="30" width="40" /></a>
 </p>
 
