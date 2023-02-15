@@ -1,4 +1,4 @@
-  <h1>EIG - GITHUB</h1>
+  <h1>TEIG - GITHUB</h1>
 <h3>A passionate developer from Norway</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/teigCoding/](https://github.com/teigCoding/)
