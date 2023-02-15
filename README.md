@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm teig!</h1>
 <h3 align="center">A passionate developer from Norway</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teigcoding&label=Profile%20views&color=0e75b6&style=flat" alt="teigcoding" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/teigCoding/](https://github.com/teigCoding/)
 
 - 👨‍💻 Purchase some of my projects at [https://teigs-custom-scripts.tebex.io/](https://teigs-custom-scripts.tebex.io/)
