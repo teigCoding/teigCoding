@@ -1,7 +1,7 @@
   <h1>TEIG - GITHUB</h1>
 <h3>A passionate developer from Norway</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/teigCoding/](https://github.com/teigCoding/)
+- 👨‍💻 Some of my projects are available at [https://github.com/teigCoding/](https://github.com/teigCoding/)
 
 - 👨‍💻 Purchase some of my projects at [https://teigs-custom-scripts.tebex.io/](https://teigs-custom-scripts.tebex.io/)
 
