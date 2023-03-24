@@ -16,7 +16,7 @@
 <h3 align="left">Developer at:</h3>
 <p align="left">
 <a href="https://discord.gg/qbcore" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/81791099?s=280&v=4" alt="https://discord.gg/qbcore" height="30" width="30" /></a>
-<a href="https://discord.gg/2FhjVxZpRh" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1083473352359956480/1083473861229686824/fittebra.png" alt="https://discord.gg/2FhjVxZpRh" height="30" width="30" /></a>
+<a href="https://discord.gg/2FhjVxZpRh" target="blank"><img align="center" src="https://media.discordapp.net/attachments/1083473352359956480/1083473861510692998/1112.png" alt="https://discord.gg/2FhjVxZpRh" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
