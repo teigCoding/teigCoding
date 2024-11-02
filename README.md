@@ -3,8 +3,6 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/teigCoding/](https://github.com/teigCoding/)
 
-- 👨‍💻 Purchase some of my projects at [https://teigs-custom-scripts.tebex.io/](https://teigs-custom-scripts.tebex.io/)
-
 - 📫 How to reach me **https://discord.gg/7Rw8DuPDrn**
 
 <h3 align="left">Connect with me:</h3>
