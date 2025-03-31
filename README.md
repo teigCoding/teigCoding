@@ -1,5 +1,5 @@
   <h1>TEIG - GITHUB</h1>
-<h3>A passionate developer from Norway</h3>
+<h3>A dev from Norway.</h3>
 
 - 👨‍💻 Some of my projects are available at [https://github.com/teigCoding/](https://github.com/teigCoding/)
 
